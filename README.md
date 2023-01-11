@@ -1,5 +1,5 @@
 # OOBPgame
-JS Text-based game
+A JS Text-based game
 
 Creating a text based game, which is executed from the command line. 
 The game is a dungeon adventure where the player enters the DUNGEONS OF LORD OBJECT ORIENTUS!
